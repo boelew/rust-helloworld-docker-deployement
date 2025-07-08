@@ -10,7 +10,7 @@
 
 ## Run Hello World
 
-Navigate to /usr/src/app
+Navigate to application directory:
 `cd /usr/src/app`
 
 Run application:
