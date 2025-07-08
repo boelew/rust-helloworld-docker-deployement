@@ -1,6 +1,6 @@
 # Hello World in Docker Container
 
-This repository creates a simpel Rust application that can be build on a local machine and can be deployed in a Docker container.
+This repository creates a simple Rust application that can be build on a local machine and can be deployed in a Docker container.
 It can be used to get familiar with this kind of deployement.
 
 ## Build
